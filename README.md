@@ -1,6 +1,6 @@
 Docker LAMP
 ===========
-
+Conenedor que soluciona problemas al crear proyectos con php5.6 con mysqli
 Linux/Apache/MySQL/PHP development environment optimized for xt:Commerce and TYPO3.
 
 ### Features
